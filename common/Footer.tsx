@@ -43,7 +43,7 @@ export const Footer = ({
             <a href="https://minkspace.com" className="text-gray-400">
               Home
             </a>
-            <a href="https://mint.minkspace.com" className="text-gray-400">
+            <a href="https://minting.minkspace.com" className="text-gray-400">
               Minting
             </a>
             <a href="https://paper.minkspace.com" className="text-gray-400">

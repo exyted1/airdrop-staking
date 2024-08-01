@@ -94,7 +94,7 @@ export const stakePoolsWithHostnames: {
   hostname: string
 }[] = [
   {
-    stakePoolAddress: '2wcc3yQryHnbEv2j64nAnyBU15bdDKGMSxJXMUqt3d6g',
-    hostname: 'staking.minkspace.com',
+    stakePoolAddress: 'GFQYpiSSw99JjgAfGhTsfv7dNrR3Lmk3kaUy531Hfq3u',
+    hostname: 'airdrop.minkspace.com',
   },
 ]

@@ -2,48 +2,8 @@ import React, { useEffect, useRef, useState } from 'react';
 
 const images: { desktop: string, mobile: string }[] = [
   {
-    desktop: "https://raw.githubusercontent.com/exyted1/assets/main/banner/0.png",
-    mobile: "https://raw.githubusercontent.com/exyted1/assets/main/banner/0.png"
-  },
-  {
-    desktop: "https://raw.githubusercontent.com/exyted1/assets/main/banner/1.png",
-    mobile: "https://raw.githubusercontent.com/exyted1/assets/main/banner/1.png"
-  },
-  {
-    desktop: "https://raw.githubusercontent.com/exyted1/assets/main/banner/2.png",
-    mobile: "https://raw.githubusercontent.com/exyted1/assets/main/banner/2.png"
-  },
-  {
-    desktop: "https://raw.githubusercontent.com/exyted1/assets/main/banner/3.png",
-    mobile: "https://raw.githubusercontent.com/exyted1/assets/main/banner/3.png"
-  },
-  {
-    desktop: "https://raw.githubusercontent.com/exyted1/assets/main/banner/4.png",
-    mobile: "https://raw.githubusercontent.com/exyted1/assets/main/banner/4.png"
-  },
-  {
-    desktop: "https://raw.githubusercontent.com/exyted1/assets/main/banner/5.png",
-    mobile: "https://raw.githubusercontent.com/exyted1/assets/main/banner/5.png"
-  },
-  {
-    desktop: "https://raw.githubusercontent.com/exyted1/assets/main/banner/6.png",
-    mobile: "https://raw.githubusercontent.com/exyted1/assets/main/banner/6.png"
-  },
-  {
-    desktop: "https://raw.githubusercontent.com/exyted1/assets/main/banner/7.png",
-    mobile: "https://raw.githubusercontent.com/exyted1/assets/main/banner/7.png"
-  },
-  {
-    desktop: "https://raw.githubusercontent.com/exyted1/assets/main/banner/8.png",
-    mobile: "https://raw.githubusercontent.com/exyted1/assets/main/banner/8.png"
-  },
-  {
-    desktop: "https://raw.githubusercontent.com/exyted1/assets/main/banner/9.png",
-    mobile: "https://raw.githubusercontent.com/exyted1/assets/main/banner/9.png"
-  },
-  {
-    desktop: "https://raw.githubusercontent.com/exyted1/assets/main/banner/10.png",
-    mobile: "https://raw.githubusercontent.com/exyted1/assets/main/banner/10.png"
+    desktop: "https://raw.githubusercontent.com/exyted1/assets/main/banner/airdrop.png",
+    mobile: "https://raw.githubusercontent.com/exyted1/assets/main/banner/airdrop.png"
   }
 ];
 const delay = 4000;
